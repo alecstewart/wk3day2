@@ -2,35 +2,35 @@
     var goodMovie = [],
         rllyGoodMovie = []
 
-        movie1 = {
+        var movie1 = {
             title: 'Apocalypse Now',
             genre: 'Drama',
             year: 1979,
             actors: ['Martin Sheen', 'Marlon Brando', 'Robert Duvall'],
             stars: 8.5
         }
-        movie2 = {
+        var movie2 = {
             title: 'Microcosmos',
             genre: 'Documentary',
             year: 1996,
             actors: ['Kristin Scott Thomas', 'Jacques Perrin'],
             stars: 7.9
         }
-        movie3 = {
+        var movie3 = {
             title: 'Akira',
             genre: 'Animation',
             year: 1988,
             actors: ['Nozomu Sasaki', 'Mami Koyama', 'Mitsuo Iwata'],
             stars: 8.1
         }
-        movie4 = {
+        var movie4 = {
             title: 'Ghost in the Shell',
             genre: 'Animation',
             year: 1995,
             actors: ['Atsuko Tanaka', 'Iemasa Kayumi', 'Akio Otsuka'],
             stars: 8.0
         }
-        movie5 = {
+        var movie5 = {
             title: 'Perfect Blue',
             genre: 'Animation',
             year: 1997,
@@ -75,21 +75,21 @@
         // stars
         // [{"title":"Perfect Blue","genre":"Animation","year":1997,"actors":["Junko Iwao","Rica Matsumoto","Shinpachi Tsuji"],"stars":7.8},{"title":"Microcosmos","genre":"Documentary","year":1996,"actors":["Kristin Scott Thomas","Jacques Perrin"],"stars":7.9},{"title":"Ghost in the Shell","genre":"Animation","year":1995,"actors":["Atsuko Tanaka","Iemasa Kayumi","Akio Otsuka"],"stars":8},{"title":"Akira","genre":"Animation","year":1988,"actors":["Nozomu Sasaki","Mami Koyama","Mitsuo Iwata"],"stars":8.1},{"title":"Apocalypse Now","genre":"Drama","year":1979,"actors":["Martin Sheen","Marlon Brando","Robert Duvall"],"stars":8.5}]
 
-        movie6 = {
+        var movie6 = {
             title: 'The Scorpion King 2: Rise of a Warrior',
             genre: 'Action',
             year: 2008,
             actors: ['michael Copon', 'Karen David', 'Simon Quarterman'],
             stars: 3.8
         }
-        movie7 = {
+        var movie7 = {
             title: 'The Scorpion King 3: Battle for Redemption',
             genre: 'Action',
             year: 2012,
             actors: ['Dave Bautista', 'Bostin Christopher', 'Tanapol Chuksrida'],
             stars: 3.6
         }
-        movie8 = {
+        var movie8 = {
             title: 'The Scorpion King 4: Quest for Power',
             genre: 'Action',
             year: 2015,
@@ -120,5 +120,3 @@
         //
         // // all
         // // [{"title":"Perfect Blue","genre":"Animation","year":1997,"actors":["Junko Iwao","Rica Matsumoto","Shinpachi Tsuji"],"stars":7.8},{"title":"Microcosmos","genre":"Documentary","year":1996,"actors":["Kristin Scott Thomas","Jacques Perrin"],"stars":7.9},{"title":"Ghost in the Shell","genre":"Animation","year":1995,"actors":["Atsuko Tanaka","Iemasa Kayumi","Akio Otsuka"],"stars":8},{"title":"Akira","genre":"Animation","year":1988,"actors":["Nozomu Sasaki","Mami Koyama","Mitsuo Iwata"],"stars":8.1},{"title":"Apocalypse Now","genre":"Drama","year":1979,"actors":["Martin Sheen","Marlon Brando","Robert Duvall"],"stars":8.5},{"title":"The Scorpion King 3: Battle for Redemption","genre":"Action","year":2012,"actors":["Dave Bautista","Bostin Christopher","Tanapol Chuksrida"],"stars":3.6},{"title":"The Scorpion King 2: Rise of a Warrior","genre":"Action","year":2008,"actors":["michael Copon","Karen David","Simon Quarterman"],"stars":3.8},{"title":"The Scorpion King 4: Quest for Power","genre":"Action","year":2015,"actors":["Victor Webster","Ellen Hollman","Will Kemp"],"stars":4.3}]
-
-    
